@@ -8,8 +8,8 @@ Linux commands form the backbone of system administration and DevOps workflows. 
 ### Commands:  
 1. ls - List files and directories.  
    ```bash
-   ls -l        # List in detailed format  
-   ls -a        # List hidden files  
+      ls -l        # List in detailed format  
+      ls -a        # List hidden files  
     ```
 2. cd- Change directories.
    ```bash
