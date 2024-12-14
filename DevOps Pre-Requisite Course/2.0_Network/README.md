@@ -83,3 +83,23 @@ Follow these steps to get started:
 3. Begin with the [Networking Basics](./networking-basics) section if you're new to networking.
 
 4. Use the provided scripts and configuration files in the `examples` folder for hands-on practice.
+
+## Contributing
+
+We welcome contributions to improve this repository! Here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a feature branch:
+
+    ```bash
+    git checkout -b feature-name
+    ```
+
+3. Commit your changes and push to your fork:
+
+    ```bash
+    git commit -m "Add a brief description of your changes"
+    git push origin feature-name
+    ```
+
+4. Open a pull request with a detailed description of your changes.
