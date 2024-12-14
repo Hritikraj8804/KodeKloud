@@ -59,3 +59,27 @@ This repository includes the following topics:
 5. **Advanced Topics**
    - Firewalls and VPNs
    - Network Security Best Practices
+
+## Prerequisites
+
+Before diving into this repository, ensure you have:
+
+- Basic understanding of Linux command line.
+- Familiarity with DevOps concepts like CI/CD, containers, and cloud platforms.
+
+## Getting Started
+
+Follow these steps to get started:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/networks-basics-for-devops.git
+    cd networks-basics-for-devops
+    ```
+
+2. Explore the folders and files. Each topic has its own directory with markdown documentation and practical examples.
+
+3. Begin with the [Networking Basics](./networking-basics) section if you're new to networking.
+
+4. Use the provided scripts and configuration files in the `examples` folder for hands-on practice.
