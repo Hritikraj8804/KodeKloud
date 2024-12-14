@@ -27,3 +27,35 @@ As a DevOps engineer, you often work with:
 - **Monitoring and Troubleshooting**: Diagnosing issues in distributed systems using networking tools.
 
 Understanding networking basics allows you to design and troubleshoot efficient and secure systems.
+
+## Topics Covered
+
+This repository includes the following topics:
+
+1. **Networking Basics**
+   - OSI Model
+   - TCP/IP Stack
+   - IP Addressing (IPv4 & IPv6)
+   - Subnetting and CIDR Notation
+   - DNS Basics
+
+2. **Protocols and Ports**
+   - HTTP/HTTPS
+   - SSH
+   - FTP/SFTP
+   - Common Ports and Their Usage
+
+3. **Network Tools**
+   - `ping` and `traceroute`
+   - `netstat` and `ss`
+   - `curl` and `wget`
+   - `tcpdump` and `wireshark`
+
+4. **Practical Use Cases in DevOps**
+   - Configuring Virtual Networks in Cloud (AWS, Azure, GCP)
+   - Load Balancers and Reverse Proxies
+   - Kubernetes Networking Basics (Services, Ingress, Network Policies)
+
+5. **Advanced Topics**
+   - Firewalls and VPNs
+   - Network Security Best Practices
