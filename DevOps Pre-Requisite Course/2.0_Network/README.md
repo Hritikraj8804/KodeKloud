@@ -30,8 +30,6 @@ Understanding networking basics allows you to design and troubleshoot efficient 
 
 ## Topics Covered
 
-This repository includes the following topics:
-
 1. **Networking Basics**
    - OSI Model
    - TCP/IP Stack
