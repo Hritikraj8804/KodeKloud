@@ -26,3 +26,19 @@ node -v
 npm -v
 python --version
 ```
+
+## Building and Running the Application
+
+### Java Application
+Navigate to the `java-app` directory:
+```bash
+cd java-app
+```
+1. **Build the application** (Maven example):
+   ```bash
+   mvn clean install
+   ```
+2. **Run the application**:
+   ```bash
+   java -jar target/devops-basic-java.jar
+   ```
