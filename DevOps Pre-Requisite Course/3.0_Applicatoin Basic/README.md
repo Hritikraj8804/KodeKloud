@@ -68,3 +68,15 @@ cd python-app
    ```
 
 ---
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code is well-documented and adheres to the project structure.
+
+### Steps to Contribute
+1. Fork this repository.
+2. Create a new branch.
+3. Make your changes.
+4. Test the changes locally.
+5. Submit a pull request.
+
+---
