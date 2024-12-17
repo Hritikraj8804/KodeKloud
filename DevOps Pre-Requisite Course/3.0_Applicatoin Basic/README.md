@@ -42,3 +42,18 @@ cd java-app
    ```bash
    java -jar target/devops-basic-java.jar
    ```
+
+### Node.js Application
+Navigate to the `node-app` directory:
+```bash
+cd node-app
+```
+1. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+2. **Run the application**:
+   ```bash
+   node index.js
+   ```
+
