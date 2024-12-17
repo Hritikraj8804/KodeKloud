@@ -57,3 +57,14 @@ cd node-app
    node index.js
    ```
 
+### Python Application
+Navigate to the `python-app` directory:
+```bash
+cd python-app
+```
+1. **Run the Python script**:
+   ```bash
+   python app.py
+   ```
+
+---
