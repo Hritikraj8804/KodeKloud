@@ -32,3 +32,29 @@ Here’s a basic workflow for using Git:
    git remote add origin <remote_repository_url>
    git push origin <branch_name>
    ```
+
+   ## Collaboration
+
+- **Clone a remote repository**:
+  ```bash
+  git clone <remote_repository_url>
+  ```
+  Creates a local copy of the remote repository.
+
+- **Pull updates from the remote repository**:
+  ```bash
+  git pull origin <branch_name>
+  ```
+  Gets the latest changes from other collaborators.
+
+- **Create branches for your work**:
+  ```bash
+  git checkout -b <branch_name>
+  ```
+  Switches to a new branch for independent development.
+
+- **Merge branches**:
+  ```bash
+  git merge <branch_name>
+  ```
+  Merges changes from another branch.
