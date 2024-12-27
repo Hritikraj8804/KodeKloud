@@ -58,3 +58,24 @@ Here’s a basic workflow for using Git:
   git merge <branch_name>
   ```
   Merges changes from another branch.
+
+  ## Helpful Git Commands for DevOps
+
+### Basic commands:
+- `git init`: Initializes a new Git repository.
+- `git status`: Shows the status of your working directory and staging area.
+- `git add <file>`: Adds a file to the staging area.
+- `git commit -m "message"`: Creates a commit with a message.
+- `git log`: Shows the commit history.
+
+### Branching commands:
+- `git branch`: Lists all branches.
+- `git checkout <branch_name>`: Switches to a different branch.
+- `git branch -b <branch_name>`: Creates a new branch.
+- `git merge <branch_name>`: Merges changes from another branch.
+
+### Remote repository commands:
+- `git remote add <name> <url>`: Adds a remote repository.
+- `git push <remote_name> <branch_name>`: Pushes your local commits to a remote branch.
+- `git pull <remote_name> <branch_name>`: Pulls changes from a remote branch.
+
