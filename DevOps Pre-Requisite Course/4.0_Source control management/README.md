@@ -25,3 +25,10 @@ Here’s a basic workflow for using Git:
 
 3. **Commit Changes**:  
    Use `git commit -m "descriptive message"` to create a snapshot of the staged changes with a descriptive message.
+
+4. **Remote repository (optional)**:
+   Push your local commits to a remote repository like GitHub or GitLab for collaboration and version control across teams:
+   ```bash
+   git remote add origin <remote_repository_url>
+   git push origin <branch_name>
+   ```
