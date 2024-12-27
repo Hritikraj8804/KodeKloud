@@ -79,3 +79,11 @@ Here’s a basic workflow for using Git:
 - `git push <remote_name> <branch_name>`: Pushes your local commits to a remote branch.
 - `git pull <remote_name> <branch_name>`: Pulls changes from a remote branch.
 
+## Additional Resources
+
+- [Git SCM official documentation](https://git-scm.com/)
+- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
+- [GitHub Guide](https://github.com/git-guides)
+
+This document provides a foundational understanding of Git. As you delve deeper into DevOps practices, explore more advanced Git features and functionalities to streamline your development workflow.
+
