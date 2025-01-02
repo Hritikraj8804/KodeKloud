@@ -1,4 +1,4 @@
-# Taks
+# Task
 Develop a shell script - /home/bob/deploy-ecommerce-application.sh - to automate the deployment of the KodeKloud E-Commerce Application. Click on the tab called documentation on the top-right of the terminal.
 
 
@@ -203,3 +203,14 @@ do
   check_item "$web_page" $item
 done
 ```
+
+give permission to execute: 
+```
+chmod +x deploy-ecommerce-application.sh
+```
+
+execute it:
+```
+./deploy-ecommerce-application.sh
+```
+
