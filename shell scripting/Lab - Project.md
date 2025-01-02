@@ -8,10 +8,11 @@ Remember, Bob's password - caleston123
 
 # solution
 
+```
+vi deploy-ecommerce-application.sh
+```
 
-
-
-bash
+copy this: 
 ```
 #!/bin/bash
 #
